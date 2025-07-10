@@ -1,5 +1,5 @@
 <h1 id="titulo-e-imagen-de-portada" align="center">
-# 💱 Challenge Conversor de Monedas
+💱 Challenge Conversor de Monedas
 </h1>
 <h2 align="center">
 📌 Curso Practicando con Java: Challenge Conversor de Monedas  
