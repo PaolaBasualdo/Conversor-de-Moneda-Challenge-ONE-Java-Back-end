@@ -2,7 +2,7 @@
 # 💱 Challenge Conversor de Monedas
 </h1>
 <h2 align="center">
-📌 Curso **Practicando con Java**: Challenge Conversor de Monedas  
+📌 Curso Practicando con Java: Challenge Conversor de Monedas  
 📚 Programa ONE - Oracle + Alura Latam  
 </h2>
 
