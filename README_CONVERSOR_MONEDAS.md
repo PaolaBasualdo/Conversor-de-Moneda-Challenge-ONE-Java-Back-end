@@ -1,7 +1,7 @@
 
 # 💱 Challenge Conversor de Monedas
 
-📌 Curso de **Principiante en Programación**: Challenge Conversor de Monedas  
+📌 Curso de **Practicando con Java**: Challenge Conversor de Monedas  
 📚 Programa ONE - Oracle + Alura Latam  
 
 ---
@@ -50,6 +50,7 @@ Desarrollo de una aplicación de consola en Java que permite al usuario converti
 ✅ Aplicar la tasa de conversión sobre un monto ingresado.  
 ✅ Mostrar los resultados de manera clara al usuario.  
 ✅ Implementar un menú interactivo para realizar múltiples conversiones.
+✅ Visualización del historial de conversiones con fecha y hora.
 
 ---
 
